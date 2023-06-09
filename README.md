@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedstoneTrippy1
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning java and C++
+- 🌱 I’m currently learning: java and C++
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me gmail my homie redstonetrippy1@gmail.com
 
